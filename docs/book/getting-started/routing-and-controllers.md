@@ -36,6 +36,7 @@ highlighted using comments.
 ```php
 namespace Album;
 
+// The following line is new and should be added to your file:
 use Laminas\Router\Http\Segment;
 use Laminas\ServiceManager\Factory\InvokableFactory;
 
